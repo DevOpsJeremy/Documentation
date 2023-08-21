@@ -1,1 +1,2 @@
 # Documentation
+For automating Documentation.
